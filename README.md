@@ -75,7 +75,7 @@ Techniques used: aggregations, subqueries, CTEs, `CASE` expressions, and window 
 
 ### 3. Dashboard (Power BI)
 
-File: [`customer_behavior_dashboard.pbix`](dashboard/customer_behavior_dashboard.pbix)
+File: [imagesdashboard.png.png)
 
 ![Customer Behavior Dashboard](images/dashboard.png)
 
